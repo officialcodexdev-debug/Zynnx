@@ -387,7 +387,6 @@
     border-radius: 4px;
     overflow: hidden;
     position: relative;
-    cursor: none;
     transition: all 0.4s;
     group: true;
   }
