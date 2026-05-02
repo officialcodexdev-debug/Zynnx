@@ -369,7 +369,7 @@
     background: none; border: 1px solid rgba(255,255,255,0.08);
     color: var(--gray3); font-size: 12px; letter-spacing: 1px;
     text-transform: uppercase; padding: 8px 18px; border-radius: 2px;
-    cursor: none; transition: all 0.2s;
+    transition: all 0.2s;
     font-family: 'Manrope', sans-serif;
   }
   .filter-btn.active, .filter-btn:hover {
@@ -653,7 +653,7 @@
     background: rgba(201,168,76,0.02);
   }
   .form-input::placeholder, .form-textarea::placeholder { color: var(--text-muted); }
-  .form-select { appearance: none; cursor: none; }
+  .form-select { appearance: none; }
   option { background: #1a1a1a; }
   .form-textarea { resize: vertical; min-height: 120px; }
   .submit-btn {
@@ -665,7 +665,6 @@
     font-size: 15px;
     font-weight: 700;
     font-family: 'Cormorant Garamond', serif;
-    cursor: none;
     transition: all 0.2s;
     letter-spacing: 0.5px;
     display: flex; align-items: center; gap: 10px;
