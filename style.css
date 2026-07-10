@@ -96,9 +96,9 @@
   }
   .hero-title {
     font-family: 'Cormorant Garamond', serif;
-    font-weight: 800;
+    font-weight: 700;
     font-size: clamp(57px, 10vw, 130px);
-    line-height: 0.9;
+    line-height: 0.7;
     letter-spacing: -2px;
     margin-bottom: 48px;
     position: relative;
