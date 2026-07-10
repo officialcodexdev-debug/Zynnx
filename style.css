@@ -552,9 +552,9 @@
     color: var(--accent);
   }
   .author-name {
-    font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 15px;
+    font-family: 'Cormorant Garamond', serif; font-weight: 800; font-size: 18px;
   }
-  .author-role { font-size: 12px; color: var(--text-muted); }
+  .author-role { font-size: 14px; color: var(--text-muted); }
 
   /* PROCESS */
   #process { background: var(--gray); }
