@@ -30,6 +30,8 @@
     transition: all 0.3s ease;
   }
   .nav-logo {
+    height: 30px;
+    width: auto;
     font-family: 'Wayfarer', sans-serif;
     font-weight: 800;
     font-size: 22px;
