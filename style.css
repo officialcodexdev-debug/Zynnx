@@ -390,7 +390,7 @@
     overflow: hidden;
     position: relative;
     transition: all 0.4s;
-    group: true;
+    /* group: true; */
   }
   .portfolio-card:hover { transform: translateY(-6px); border-color: rgba(201,168,76,0.12); }
   .portfolio-card.wide { grid-column: span 2; }
@@ -605,7 +605,7 @@
     gap: 80px;
     align-items: start;
   }
-  .contact-left {}
+  /* .contact-left {} */
   .contact-big {
     font-family: 'Cormorant Garamond', serif;
     font-weight: 800;
@@ -633,7 +633,7 @@
   }
   .contact-item-label { font-size: 11px; letter-spacing: 1px; text-transform: uppercase; color: var(--text-muted); margin-bottom: 4px; }
   .contact-item-value { font-size: 15px; color: var(--white); text-decoration: none; }
-  .contact-right {}
+  /* .contact-right {} */
   .contact-form { display: flex; flex-direction: column; gap: 16px; }
   .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
   .form-group { display: flex; flex-direction: column; gap: 8px; }
@@ -692,7 +692,7 @@
     line-height: 1;
   }
   .why-items { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; }
-  .why-item {}
+  /* .why-item {} */
   .why-item-title {
     font-family: 'Cormorant Garamond', serif;
     font-weight: 700; font-size: 17px;
